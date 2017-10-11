@@ -1,20 +1,16 @@
 1111
 1111
 1111
-<<<<<<< HEAD
+
 bbbbb
 
 cccccc
 
+ss2222
 
 sass
 
 ssssss
 
 sass
-=======
 
-aaaaaaa
-
-
->>>>>>> acc563f267bb80fb43a35aaaa2354ad1e4506278
